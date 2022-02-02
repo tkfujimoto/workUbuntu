@@ -25,7 +25,7 @@ int main(void){
 
 void TestFunction(void){
     int x = 5555;
-
+    int z =6666;
     printf("x = %d\n",x);
     printf("z = %d\n",z);
 }

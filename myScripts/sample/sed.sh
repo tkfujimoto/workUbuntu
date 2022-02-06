@@ -1,0 +1,1 @@
+sed /^B/d drink2.txt

@@ -1,0 +1,1 @@
+awk -F, -f average.awk score.csv
